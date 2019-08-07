@@ -1,6 +1,6 @@
 ## About
 
-This repository is related [Candy Production Dataset](https://www.kaggle.com/rtatman/us-candy-production-by-month)
+This repository is related to the [Candy Production Dataset](https://www.kaggle.com/rtatman/us-candy-production-by-month).  
 In this dataset, is given the US Candy Production by Month ([candy_production.csv](https://github.com/viniciusov/candy-production/blob/master/candy_production.csv)).
 
 ## Analysis
