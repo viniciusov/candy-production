@@ -11,7 +11,7 @@ Thus, I splitted the data set into a Train and a Test set, keeping the last 12 m
 When you talk about time series predictions, there are two main cells that can deliver good results in a RNN (Recurrent Neural Network).
 They are the **LSTM** (Long Short Term Memory) and the **GRU** (Gated recurrent units).
 
-Dealing with these two different cells, it's expected to get 2 distinctis results (predictions), so I thought it'd be better to make to separated analysis.
+Dealing with these two different cells, it's expected to get 2 different results (predictions), so I thought it'd be better to make to separated analysis.
 
 You can check them here:
 - **LSTM**: [LSTM Jupyter-notebook](https://nbviewer.jupyter.org/github/viniciusov/candy-production/blob/master/candy_prediction_gridsearch_lstm.ipynb)
